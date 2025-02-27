@@ -18,5 +18,5 @@ $ python3 DDOStools.py
 
 ## HUBUNGI KAMI
 - [YouTube](https://youtube.com/sonymodderr)
-- [Instagram](https://instagram.com/kuciingterrbang)
+- [Instagram](https://instagram.com/kuciinglangka)
 - [Telegram](https://t.me/OrdinaryPeople403)
