@@ -1,8 +1,8 @@
-## APA ITU DDoS
-- DDoS (Distributed Denial of Service) adalah serangan siber yang membuat layanan atau server tidak bisa diakses dengan membanjirinya menggunakan lalu lintas internet dalam jumlah besar dari banyak sumber (biasanya botnet). Akibatnya, sistem target menjadi lambat atau offline.
+## WHAT IS DDoS
+- DDoS (Distributed Denial of Service) is a cyber attack that makes a service or server inaccessible by flooding it with large amounts of internet traffic from multiple sources (usually botnets). As a result, the system
 
 
-## INSTALASI
+## INSTALLATION
 ```
 $ pkg update && pkg upgrade
 $ pkg install python3
@@ -13,10 +13,13 @@ $ pip install requests
 $ python3 DDOStools.py
 ```
 
-## CUPLIKAN GAMBAR
+## IMAGE SHOOT
 ![Dolkings preview](DDOStools.png)
 
-## HUBUNGI KAMI
+## CONTACT US
 - [YouTube](https://youtube.com/sonymodderr)
 - [Instagram](https://instagram.com/kuciinglangka)
 - [Telegram](https://t.me/OrdinaryPeople403)
+
+## SUPPORT ME
+- [Saweria](https://saweria.co/SonySec07)
