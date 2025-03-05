@@ -13,7 +13,7 @@ $ pip install requests
 $ python3 DDOStools.py
 ```
 
-## IMAGE SHOOT
+## Screenshot
 ![Dolkings preview](DDOStools.png)
 
 ## CONTACT US
