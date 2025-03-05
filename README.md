@@ -1,24 +1,20 @@
-## User Agent (UA) Information
-- **User Agent (UA)** is an identification sent by a browser or application when accessing a website. It informs the server about the device type, operating system, and browser being used, allowing the website to adjust its display and functionality accordingly.
+## WHAT IS DDoS
+- DDoS (Distributed Denial of Service) is a cyber attack that makes a service or server inaccessible by flooding it with large amounts of internet traffic from multiple sources (usually botnets). As a result, the system
 
-## User Agent Include
-- **Browsers:**  
-  Chrome, Firefox, Brave, Edge, Vivaldi  
 
-- **Browser Versions:**  
-  Chrome 114+, Firefox 115+, Brave 1.52+, Edge 114+, Vivaldi 5.6+  
-
-- **Operating Systems:**  
-  Linux (Ubuntu, Debian, Arch, Fedora, Kali, openSUSE, CentOS)  
-
-- **Device Type:**  
-  PC (Desktop/Laptop)  
-
-## Note
-- Although UA helps websites optimize their display and functionality, this information can be manipulated (**spoofing**) to disguise the real identity of the device or browser.
+## INSTALLATION
+```
+$ pkg update && pkg upgrade
+$ pkg install python3
+$ pkg install git
+$ git clone https://github.com/sonydevv/DDOStools
+$ cd DDOStools
+$ pip install requests
+$ python3 DDOStools.py
+```
 
 ## Screenshot
-![Dolkings preview](Screenshot.png)
+![Dolkings preview](DDOStools.png)
 
 ## CONTACT US
 - [YouTube](https://youtube.com/sonymodderr)
