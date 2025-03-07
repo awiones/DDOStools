@@ -7,7 +7,7 @@
 $ pkg update && pkg upgrade
 $ pkg install python3
 $ pkg install git
-$ git clone https://github.com/sonydevv/DDOStools
+$ git clone https://github.com/JohnFelixx/DDOStools
 $ cd DDOStools
 $ pip install requests
 $ python3 DDOStools.py
