@@ -32,7 +32,7 @@ $ python3 DDOStools.py
 ```
 
 ## Screenshot
-![Dolkings preview](DDOStools.png)
+![Dolkings preview](image.png)
 
 ## CONTACT US
 - [YouTube](https://youtube.com/sonymodderr)
