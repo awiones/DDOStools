@@ -18,7 +18,7 @@ $ pkg install git
 $ git clone https://github.com/JohnFelixx/DDOStools
 $ cd DDOStools
 $ pip install requests
-$ python3 DDOStools.py
+$ python3 gass.py
 ```
 ## INSTALLATION WITH LINUX
 ```
@@ -28,7 +28,7 @@ $ apt install git
 $ git clone https://github.com/JohnFelixx/DDOStools
 $ cd DDOStools
 $ pip install requests
-$ python3 DDOStools.py
+$ python3 gass.py
 ```
 
 ## Screenshot
