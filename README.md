@@ -2,13 +2,13 @@
 - DDoS (Distributed Denial of Service) is a cyber attack that makes a service or server inaccessible by flooding it with large amounts of internet traffic from multiple sources (usually botnets). As a result, the system
 
 ## FEATURE
-- Flood – Serangan dengan membanjiri target dengan permintaan berlebih (DDoS).
-- Bypass – Teknik untuk melewati perlindungan keamanan.
-- UAM – Menargetkan mode perlindungan Cloudflare "Under Attack Mode".
-- TLS – Menyerang protokol TLS dengan permintaan terenkripsi.
-- HTTPS – Serangan yang membanjiri server HTTPS.
-- R2 – Metode spesifik, kemungkinan terkait bypass atau HTTP attack.
-- Gyat – Istilah tidak umum, mungkin metode khusus dalam alat tertentu.
+- Flood – Attack by flooding the target with excessive requests (DDoS).
+- Bypass – Techniques to bypass security protection.
+- UAM – Targeting Cloudflare protection mode "Under Attack Mode".
+- TLS – Attacking the TLS protocol with encrypted requests.
+- HTTPS – Server flooding attack HTTPS.
+- R2 – Specific methods, possibly related to bypass or HTTP attacks.
+- Gyat – Uncommon term, perhaps a specific method in a particular tool.
 
 ## INSTALLATION WITH TERMUX
 ```
