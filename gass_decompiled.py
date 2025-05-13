@@ -1,5 +1,4 @@
-# its easy to de compile
-
+# its easy to decompile this things
 
 import random
 import requests
